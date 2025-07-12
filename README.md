@@ -33,7 +33,7 @@
 ## 🗄 Databases
 <div>    
   <div>  
-  <img width="50" title="MySQL" src="mysql.png"/> &nbsp; 
+  <img width="50" title="MySQL" src="sql.png"/> &nbsp; 
 </div>
 
 <br><br>
@@ -50,8 +50,8 @@
 ## 📬 **Let’s Connect!**  
 Feel free to reach out for collaborations, opportunities, or just a chat!  
 
-📧 **Email**: [sarthaksalvi2107@gmail.com](mailto:sarthaksalvi2107@gmail.com)   
-🌐 **GitHub**: [github.com/sarthak2107](https://github.com/sarthak2107)  
-🔗 **LinkedIn**: [linkedin.com/in/sarthak-salvi-a7b7bb259/](https://www.linkedin.com/in/sarthak-salvi-a7b7bb259/)
+📧 **Email**: [bhagyashreem03@gmail.com](mailto:bhagyashreem03@gmail.com)   
+🌐 **GitHub**: [github.com/bhagyashree-1997](https://github.com/bhagyashree-1997)  
+🔗 **LinkedIn**: [linkedin.com/in/bhagyashree-murkute-758592200/](https://www.linkedin.com/in/bhagyashree-murkute-758592200/)
 
 <br><br>
